@@ -6,13 +6,20 @@ The code used was:
 int LED1=7;
 
 int LED2=6;
+
 int LED3=5;
+
 int pushbutton=2;
+
 void setup()
+
 {
  pinMode(2,INPUT); 
+ 
  pinMode(7,OUTPUT);
+ 
  pinMode(6,OUTPUT);
+ 
  pinMode(5,OUTPUT);
 }
 
