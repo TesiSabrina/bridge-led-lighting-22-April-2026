@@ -37,6 +37,7 @@ void loop()
     
   } 
   else{
+  
     digitalWrite(LED1, LOW);
     
     digitalWrite(LED2, LOW);
