@@ -26,15 +26,23 @@ void setup()
 void loop()
 { 
   int buttonState=digitalRead(pushbutton);
+  
     if(buttonState==HIGH){
+    
     digitalWrite(LED1, HIGH);
+    
     digitalWrite(LED2, HIGH);
+    
     digitalWrite(LED3, HIGH);
+    
   } 
   else{
     digitalWrite(LED1, LOW);
+    
     digitalWrite(LED2, LOW);
+    
     digitalWrite(LED3, LOW);
+    
   }
 }
 
