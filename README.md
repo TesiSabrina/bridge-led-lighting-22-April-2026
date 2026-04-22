@@ -13,3 +13,7 @@ The components used are:-Arduino uno
 
 -Jumper wires
 
+<img width="1536" height="640" alt="Powerful Crift (2)" src="https://github.com/user-attachments/assets/d4b27ed3-f31b-49ef-b29b-dfc711ef9c8e" />
+
+
+
