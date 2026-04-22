@@ -2,7 +2,9 @@ __**# bridge-led-lighting-22-April-2026**__
 
 A program to light three leds using an Arduino uno , a breadboard,three resitors, a pushbutton, power cable and wires.
 The code used was:
+
 int LED1=7;
+
 int LED2=6;
 int LED3=5;
 int pushbutton=2;
